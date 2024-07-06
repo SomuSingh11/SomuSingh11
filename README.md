@@ -14,7 +14,7 @@ What's up! I'm Somu, a computer engineering student who geeks out on new tech. R
 - 💬 Want to chat tech ? Hit me up with any questions! I'm always down for a good conversation about all things tech.
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/somusingh11) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somusingh11) 
 
 ---
 
