@@ -1,48 +1,132 @@
-# Hi I'm Somu 👋
-What's up! I'm Somu, a computer engineering student who geeks out on new tech. Right now I'm messing around with Java, JavaScript, Node.js, Express, React, and Linux. Basically, I code a bunch, then spend the rest of the time figuring out why it doesn't work (hint: it's usually a missing semicolon).
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Somu;Computer+Engineering+Student;AI+%26+Full+Stack+Developer;HackByte+3.0+Finalist;Building+the+Future+with+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</div>
 
-<img src="https://github.com/SomuSingh11/SomuSingh11/assets/170082343/107366a5-636a-4c1d-a946-e7d34a4b1360" width="400" height="280" align="right">
+```ts
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  education: {
+    degree: string;
+    institute: string;
+    gpa: number;
+    year: string;
+  };
+  currentlyBuilding: string[];
+  achievements: string[];
+  passions: string[];
+  motto: string;
+}
 
----
+const somu: Developer = {
+  name: "Somu Singh",
+  role: "Full Stack Developer",
+  location: "Indore, Madhya Pradesh 🇮🇳",
+  education: {
+    degree: "B.E. Computer Engineering",
+    institute: "IET DAVV",
+    gpa: 9.04,
+    year: "2022-Present"
+  },
+  currentlyBuilding: [
+    "AI-Powered Developer Tools",
+    "Real-time Communication Platforms", 
+  ],
+  achievements: [
+    "🏆 HackByte 3.0 Finalist (Top 10/120+ teams)",
+    "🎓 95% in Class XII | 90% in Class X",
+    "📜 Postman API Expert Certified"
+  ],
+  passions: ["AI/ML", "WebRTC", "System Design", "Open Source"],
+  motto: "Building solutions that matter, one commit at a time! 💻✨"
+};
+```
 
-### What I'm up to:
-- 🔭 I’m currently working with Java, JavaScript, Node.JS, Express, React, Linux <br>
-- 👯 I’m looking to collaborate on anything related to MERN<br>
-- 🌱 I’m currently learning MERN Stack<br>
-- 💬 Ask me about anything!<br>
-- ⚡ Fun fact : The first computer “bug” was an actual real-life bug
-- 💬 Want to chat tech ? Hit me up with any questions! I'm always down for a good conversation about all things tech.
+```text
+What I'm Up To =>
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somusingh11) 
+# Currently Building: AI-powered developer productivity tools with Next.js & Gemini AI
+# Recent Achievement: Finalist at HackByte 3.0 with Sync-City (Government Collaboration Platform)
+# Learning:           AI integration and scalable system architecture
+# Open to:            Collaborating on innovative AI/ML projects and full-stack applications
+# Academic Focus:     Maintaining 9.04 GPA while building production-ready applications
+```
 
----
+<hr>
 
-### 💻 Technologies and Tools I Use:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+Tech Stack & Expertise </br>
 
----
+Core Languages — *“The Foundation Scrolls”*
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
-### 📊 GitHub Stats:
+Frontend — *“The UI Blade”*
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"/>
+</p>
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SomuSIngh11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SomuSIngh11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+Backend & APIs — *“The Engine Room”* 
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+</p>
+
+AI & Tools — *“The Summoning Arts”*  
+<p>
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI"/>
+<img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub API"/>
+<img src="https://img.shields.io/badge/LiveKit-00C7BE?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit"/>
+</p>
+
+Databases & Cloud — *“The Data Vault”*  
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Convex-FF6154?style=for-the-badge&logo=convex&logoColor=white" alt="Convex"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
+</p>
+
+Dev Tools — *“Everyday Gear”*  
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</p>
+
+<hr>
+
+Featured Projectss 
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 **Catalyst** <br> *AI Developer Productivity Suite* | AI-powered platform with **GitWhiz** for repository analytics & **Quizzy** for intelligent assessments | Next.js • Gemini AI • GitHub API • Prisma • RAG |
+| 🏛️ **Sync-City** <br> *HackByte 3.0 Finalist* | Government collaboration platform preventing resource conflicts with AI-powered coordination | Next.js • Convex • Dialogflow CX • Google Vertex AI |
+| 💬 **Huddle** <br> *Real-time Communication Platform* | Production-ready Discord clone with advanced features & WebRTC video calls | Next.js • Socket.IO • LiveKit • Prisma • PostgreSQL |
+
+<div align="center">
+  <a href="mailto:Somusingh0110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/somusingh11">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SomuSingh11">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="[your-portfolio-link](https://codex-portfolio-11.vercel.ap)">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
